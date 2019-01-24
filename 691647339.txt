@@ -1,0 +1,23 @@
+(post)smss{
+content
+[destinataires]
+}
+(get)smss{
+id
+contenu
+<list destinataires>
+}
+
+
+apres activation de la carte comment ca se fait qui le fait ?
+y a t'il un registre 
+
+
+debiter wallet du client pour le compte pilote  monaie sp
+debit du compte pilote des unites de recharge uba pour le compte depot des unites de recharges uba
+
+
+achat de carte 
+debite le wallet
+credit compte pilote monaie sp cameroun
+debite compte pilote unite de recharge uba vers compte depot unite de rechargeuba
